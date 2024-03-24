@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🙋‍♀️ A short introduction
+## A short introduction 🙋‍♀️
 
 This organization was created with only one goal, to create a project for MTAA.
 
