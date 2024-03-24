@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🙋‍♀️ A short introduction
+
+This organization was created with only one goal, to create a project for MTAA.
+
+
 <!--
 
 **Here are some ideas to get you started:**
